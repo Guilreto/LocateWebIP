@@ -1,3 +1,5 @@
+<h1>LocateWebIP V1.0</h1>
+
 <pre>
 Repository ...: LocateWebIP
 Version ......: 1.0
@@ -13,4 +15,8 @@ Módule .......: Programacion
 Theme ........: Java
 Languages ....: Java
 IDE ..........: Netbeans 8.2
+<pre>
+
+<pre>
+Se puede modificar el codigo a gusto propio
 <pre>
